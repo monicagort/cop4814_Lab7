@@ -1,11 +1,11 @@
-//Comment step 7
+//Comment step 7 hi
 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Comment step 10
 namespace Lab_2
 {
     public class Game
